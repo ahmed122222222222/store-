@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "191063471850",
+    "project_id": "buy-it-c05dc",
+    "storage_bucket": "buy-it-c05dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191063471850:android:f219d31226022081dac993",
+        "android_client_info": {
+          "package_name": "com.example.fl3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191063471850-6ollqleoi047ju7aakf9qm0lpk790sfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbLozMrRbK1i0fqhO8nm4Ov0sCUk-J5b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191063471850-6ollqleoi047ju7aakf9qm0lpk790sfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191063471850-6m2b68tpg6cqo20l5n6n92o6u3rch00e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fl3.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
